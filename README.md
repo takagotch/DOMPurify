@@ -31,7 +31,7 @@ DOMPurify.addHook('beforeSanitizeElements', funciton(currentNode, data, config){
 });
 ```
 
-```
+```sh
 npm install dompurify
 ```
 
